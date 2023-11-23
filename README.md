@@ -1,12 +1,11 @@
 # Finance app
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 # Sobre o projeto
 
 Finance app é uma aplicação para gestão de finanças pessoais. Com design intuitivo e funcionalidades abrangentes, oferece controle financeiro eficiente na ponta dos dedos, simplificando a organização e o planejamento financeiro pessoal.
 
 ## Layout
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+<img src="https://github.com/Savionazario/assets/blob/main/images/mobile1.jpeg" alt="Descrição da imagem" width="240" height="520"> <img src="https://github.com/Savionazario/assets/blob/main/images/mobile2.jpeg" alt="Descrição da imagem" width="240" height="520"> <img src="https://github.com/Savionazario/assets/blob/main/images/mobile3.jpeg" alt="Descrição da imagem" width="240" height="520">
 
 # Tecnologias utilizadas
 ## Back end
